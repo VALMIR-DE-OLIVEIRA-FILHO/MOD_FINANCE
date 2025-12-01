@@ -1,5 +1,0 @@
-C:/Users/deoli/Desktop/ModuloFinanceiro/build/CMakeFiles/ModuloFinanceiro.dir
-C:/Users/deoli/Desktop/ModuloFinanceiro/build/CMakeFiles/edit_cache.dir
-C:/Users/deoli/Desktop/ModuloFinanceiro/build/CMakeFiles/rebuild_cache.dir
-C:/Users/deoli/Desktop/ModuloFinanceiro/build/CMakeFiles/ModuloFinanceiro_autogen_timestamp_deps.dir
-C:/Users/deoli/Desktop/ModuloFinanceiro/build/CMakeFiles/ModuloFinanceiro_autogen.dir

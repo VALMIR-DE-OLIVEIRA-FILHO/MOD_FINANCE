@@ -1,0 +1,4 @@
+Karol;09876543211;1;TI;Coordenador;
+valmir;05026521010;2;Financeiro;Diretor;
+Bruno;424493284989;3;Oreia;peão;
+João;434239849898;4;Comercial; vendedor

@@ -1,0 +1,2 @@
+1|conta deb luz|100|saida|2025-12-01
+2|conta de agua|45|saida|2025-07-01
